@@ -1,0 +1,25 @@
+[debug] [2024-07-15T16:29:49.257Z] ----------------------------------------------------------------------
+[debug] [2024-07-15T16:29:49.261Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\admin\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js init
+[debug] [2024-07-15T16:29:49.261Z] CLI Version:   13.13.3
+[debug] [2024-07-15T16:29:49.261Z] Platform:      win32
+[debug] [2024-07-15T16:29:49.261Z] Node Version:  v20.12.2
+[debug] [2024-07-15T16:29:49.261Z] Time:          Mon Jul 15 2024 12:29:49 GMT-0400 (hora estándar de Chile)
+[debug] [2024-07-15T16:29:49.262Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2024-07-15T16:29:49.361Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2024-07-15T16:29:49.362Z] > authorizing via signed-in user (miladejesus0903@gmail.com)
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  C:\Users\admin\vue-pruebasunitarias
+
+Before we get started, keep in mind:
+
+  * You are initializing within an existing Firebase project directory
+
